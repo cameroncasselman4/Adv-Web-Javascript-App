@@ -1,1 +1,6 @@
-# Adv-Web-Javascript-App
+# Adv-Web-Company-Page
+
+## About
+Given the use of an HTML form, the app will offer information to the user (e.g., tip calculator).
+
+### link: 
