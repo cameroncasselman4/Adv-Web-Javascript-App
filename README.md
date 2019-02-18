@@ -1,6 +1,8 @@
-# Adv-Web-Javascript-App
+# Adv-Web-Company-Page
 
 ## About
-Given the use of an HTML form, the app will offer information to the user (e.g., tip calculator).
+Calorie Counter
 
-### link: 
+School Project using vanilla html, css, and javascript. Users select which foods they ate for breakfast, lunch, and dinner via checkboxes and calories will display accordingly.
+
+### link: http://www.connorcasselman.com/Cam/Adv-Web-Javascript-App/index.html

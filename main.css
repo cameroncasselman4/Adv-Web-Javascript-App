@@ -1,0 +1,56 @@
+body {
+    background: white;
+}
+
+header {
+    background: black;
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    color: white;
+    margin: auto;
+    border-radius: 25px;
+}
+
+header > h1 {
+    padding-top: 25px;
+}
+
+main {
+    background: black;
+    border-radius: 25px;
+    color:white;
+    margin: 20px;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;   
+}
+.checkbox-flex {
+    display: flex;   
+}
+
+.flex-child {
+    margin: 20px;
+    width: 50%;
+    height: 100%;
+    background: white;
+    color: black;
+}
+
+section {
+    font-size: 25px;
+    background:black;
+    color: black;
+}
+
+.checkbox {
+    margin: 30px;
+    background: white;
+    width: 50%;
+    height: 300px; 
+    overflow-y: scroll;
+    border:2px solid #ccc;
+    border-radius: 25px;
+}
